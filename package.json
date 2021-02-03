@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "telegraf": "^3.38.0",
-    "tesseract.js": "^2.1.1"
+    "tesseract.js": "^2.1.4"
   }
 }

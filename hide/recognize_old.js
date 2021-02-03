@@ -2,7 +2,7 @@ const Tesseract = require('tesseract.js');
 
 let result = 'Something went wrong...'
 
-function recognize() {
+function recognize_old() {
 
   return Tesseract.recognize(link, lang, {
       logger: data => console.log(data),
